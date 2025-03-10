@@ -1,0 +1,131 @@
+
+/*
+html, body {
+	margin: 0;
+	
+}
+
+body {
+	background: #F4A18F;
+}
+
+.card {
+	text-align: center;
+	margin-top: 150px;
+	max-height: 500px;
+	max-height: 450px;
+	border: 1px solid #fff;
+	margin-left: 300px;
+	margin-right: 200px;
+	margin-top: 50px;
+}
+
+h1 {
+	font-family: sans-serif;
+	color: white;
+	font-size: 40px;
+	border: 2px solid #;
+}
+
+input {
+
+	display: block;
+	width: 320px;
+	height: 50px;
+	background-color: #292524;
+	border: 1px solid black;
+	margin-left: 35%;
+	margin-ridth: ;
+	border-radius: 5px;
+	margin-bottom: 8px;
+	text-align: center;
+
+}
+
+
+.card-input {
+	margin-left: 0;
+	margin-right: 200px;
+	text-align: centers;
+}
+
+.card-button {
+	width: 100px;
+	height: 100px;
+}
+*/
+
+
+
+
+
+
+html, body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+body {
+	height: 100vh;
+	background: url(https://365psd.ru/images/backgrounds/bg-dark-4804.png);
+	display: table;
+}
+
+.container {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	
+}
+
+
+button {
+	display: block;
+	position: absolute;
+	left: 50%;
+	margin-left: 50px;
+	transform: translate(-50%, -50%);
+	margin-top: 25px;
+	width: 100px;
+	height: 35px;
+	background: rgba(0,0,0,0.3);;
+	color: #000;
+	font-size: 20px;
+	border-radius: 5px;
+	border: none;
+	width: 320px;
+	height: 43px;
+}
+	
+
+ h1 {
+	display: block;
+	text-align: center;
+
+		
+
+	font-size: 35px;
+	color: #000;
+	font-family: sans-serif;
+	margin-left: 23%;
+}
+
+input {
+	display: block;
+	width: 320px;
+	height: 43px;
+	padding: 5px;
+	border: 0;
+	color: white;
+	margin-bottom: 5px;
+	border-radius: 5px;
+	background-color: rgba(0,0,0,0.3);
+	font-size: 16px;
+	margin-left: 5px;
+	margon-rigth: 5px;
+	margin-left: 100px;
+	
+}
+
